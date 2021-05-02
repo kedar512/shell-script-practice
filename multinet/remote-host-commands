@@ -1,0 +1,2 @@
+ssh -o ConnectTimeout=2 ${SERVER} hostname
+ssh -o ConnectTimeout=2 ${SERVER} uptime
